@@ -11,3 +11,4 @@ class CajeroAutomatico implements Retiro, Transferencia {
         System.out.println("Transfiriendo $" + monto + " a la cuenta " + cuentaDestino);
     }
 }
+
