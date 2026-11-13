@@ -1,4 +1,4 @@
-package EJERCICIO3;
+package TALLER19.EJERCICIO3;
 
 class ReportePDF implements GeneradorReporte {
     @Override
