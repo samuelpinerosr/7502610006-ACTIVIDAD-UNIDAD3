@@ -1,4 +1,4 @@
-package EJERCICIO3;
+package TALLER19.EJERCICIO3;
 
 class ReporteExcel implements GeneradorReporte {
     @Override
@@ -6,3 +6,4 @@ class ReporteExcel implements GeneradorReporte {
         System.out.println("Exportando hoja de cálculo Excel (.xlsx) con los datos: " + datos);
     }
 }
+

@@ -1,4 +1,4 @@
-package EJERCICIO3;
+package TALLER19.EJERCICIO3;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,3 +13,4 @@ public class Main {
         gestor.crearReporte("Inventario Bodega Cartagena - 1,200 unidades");
     }
 }
+

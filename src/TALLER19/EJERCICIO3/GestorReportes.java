@@ -1,4 +1,4 @@
-package EJERCICIO3;
+package TALLER19.EJERCICIO3;
 
 class GestorReportes {
     private GeneradorReporte generadorReporte;
@@ -12,3 +12,5 @@ class GestorReportes {
         generadorReporte.generarReporte(datos);
     }
 }
+
+
