@@ -13,3 +13,4 @@ public class Main {
         gestor.crearReporte("Inventario Bodega Cartagena - 1,200 unidades");
     }
 }
+

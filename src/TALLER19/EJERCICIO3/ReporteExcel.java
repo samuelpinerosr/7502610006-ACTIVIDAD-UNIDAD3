@@ -6,3 +6,4 @@ class ReporteExcel implements GeneradorReporte {
         System.out.println("Exportando hoja de cálculo Excel (.xlsx) con los datos: " + datos);
     }
 }
+

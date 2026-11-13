@@ -7,3 +7,5 @@ class ReportePDF implements GeneradorReporte {
     }
 }
 
+
+
