@@ -6,3 +6,4 @@ class ReportePDF implements GeneradorReporte {
         System.out.println("Generando documento PDF con los datos: " + datos);
     }
 }
+

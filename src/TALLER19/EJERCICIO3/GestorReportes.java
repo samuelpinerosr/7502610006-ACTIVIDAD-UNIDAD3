@@ -12,3 +12,4 @@ class GestorReportes {
         generadorReporte.generarReporte(datos);
     }
 }
+
